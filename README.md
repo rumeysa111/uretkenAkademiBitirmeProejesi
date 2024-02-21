@@ -1,8 +1,14 @@
-# React + Vite
+# Meram Yeni Gelenler Rehberi Projesi
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje, Meram ilçesine yeni gelenlere yönelik bilgi sağlamak ve rehberlik etmek amacıyla oluşturulmuştur.
 
-Currently, two official plugins are available:
+## Projeye Genel Bakış
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiştir. Ayrıca, kullanıcı arayüzü oluşturmak ve daha fazla işlevsellik eklemek için React.js ve Bootstrap kütüphanesi de kullanılmıştır.
+
+## Proje Özellikleri
+
+- Meram ilçesine yeni gelenlere yönelik temel bilgilerin sunulması.
+- Kullanıcı dostu arayüz ile kolay gezilebilirlik.
+- Bootstrap kütüphanesi kullanılarak özelleştirilmiş ve modern bir tasarım.
+- React.js ile dinamik bileşenlerin kullanımı.
