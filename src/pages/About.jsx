@@ -6,7 +6,7 @@ function About() {
         backgroundImage: `url(${background})`,
         backgroundSize: 'cover',
         backgroundPosition: 'center',
-        height: '100vh', // Use 'vh' for viewport height
+        height: '100vh', 
         width: '100%',
         display: 'flex',
         flexDirection: 'column',
@@ -18,20 +18,20 @@ function About() {
     
       };
       const textContainerStyle = {
-        backgroundColor: 'rgba(255, 255, 255, 0.5)', // Yarı saydam siyah arkaplan ekledik
-        padding: '10px', // İstenilen boşlukları ayarlayabilirsiniz
+        backgroundColor: 'rgba(255, 255, 255, 0.5)',
+        padding: '10px', 
         borderRadius: '30px',
         marginTop: '-65vh',
       };
     const headingStyle = {
         color: 'black',
-        fontSize: '2em',  // Adjust the font size as needed
+        fontSize: '2em',  
         fontWeight: 'bold',
     };
 
     const paragraphStyle = {
         color: '',
-        fontSize: '1.3em',  // Adjust the font size as needed
+        fontSize: '1.3em', 
         fontWeight: 'bold',
     };
     return (

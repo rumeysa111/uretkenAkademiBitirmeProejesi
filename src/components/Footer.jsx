@@ -1,4 +1,4 @@
-// components/Footer.jsx
+
 
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
@@ -14,20 +14,20 @@ const Footer = () => {
 
   const containerStyle = {
     display: 'flex',
-    justifyContent: 'space-between', // İçeriği sola ve sağa doğru genişlet
-    alignItems: 'center', // İçeriği dikey ortala
+    justifyContent: 'space-between', 
+    alignItems: 'center', 
   };
 
   const iconStyle = {
     fontSize: '1.5rem',
-    marginLeft: '0.5rem', // Sosyal medya ikonları arasına boşluk bırak
+    marginLeft: '0.5rem', 
   };
 
   return (
     <footer style={footerStyle}>
       <div className="container" style={containerStyle}>
         <p>
-          &copy; 2024 Rumeysa Semiz. All Rights Reserved.
+          &copy; 2024 Rumeysa Semiz.
         </p>
         <div>
           <span style={iconStyle}>

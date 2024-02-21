@@ -19,7 +19,7 @@ function Home() {
   };
 
   const textContainerStyle = {
-    backgroundColor: 'rgba(255, 255, 255, 0.5)', // Yarı saydam beyaz arkaplan ekledik
+    backgroundColor: 'rgba(255, 255, 255, 0.5)',
     padding: '20px',
     borderRadius: '10px',
     marginTop: '-80vh',

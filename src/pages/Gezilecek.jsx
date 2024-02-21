@@ -41,7 +41,7 @@ function Gezilecek() {
  
   ];
   const handleKonumClick = (konum) => {
-    // Konum linkine tıklandığında yapılacak işlemler buraya gelebilir
+    
     window.open(konum, '_blank');
   };
 
